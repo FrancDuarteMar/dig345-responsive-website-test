@@ -1,0 +1,23 @@
+.bs{
+    /* border: 3px red dashed; */
+    border: none;
+}
+
+img{
+    width:100%;
+    padding-bottom: 10%;
+}
+#shuffle{
+    width:fit-content;
+    border-style: none;
+    text-decoration: underline;
+   
+    /* font-size: 1.2rem; */
+}
+.shuffle-text{
+    font-size: 1.2rem;
+}
+.no-padding{
+    padding:0;
+}
+
